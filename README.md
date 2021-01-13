@@ -1,2 +1,2 @@
-# module-based-type-along
-Template repository for starting the module based coding exercise
+# exercise-code-review
+A repository for the code review exercise in the MetOs workshop 
